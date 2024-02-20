@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "mock": "json-server src/app/shared/mocks/songs-mock.json",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
